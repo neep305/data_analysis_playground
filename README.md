@@ -1,7 +1,6 @@
 # data_analysis_playground
 
-```
-
+```python
 # sphinx_gallery_thumbnail_number = 10
 import numpy as np
 import matplotlib.pyplot as plt
